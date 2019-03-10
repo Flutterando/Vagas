@@ -10,7 +10,7 @@ Crie uma **issue** no link: https://github.com/Flutterando/vagas/issues
 
 A issue tem um template específico, basta você editá-lo como desejar. No título da issue, coloque o nome da cidade entre colchetes, seguida do nome da vaga e o nome da empresa, exemplo:
 
-`[Cidade, Estado] Desenvolvedor Android [JUNIOR|PLENO|SENIOR] | ACME LTDA`
+`[Cidade, Estado] Desenvolvedor Flutter [JUNIOR|PLENO|SENIOR] | ACME LTDA`
 
 Adicione _labels_ contendo o nível de experiência desejada e o formato de contração. 
 
